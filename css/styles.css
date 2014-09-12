@@ -1,5 +1,6 @@
 #wrapper {
-  
+  background-image: url("../img/brown.jpg");
+  background-repeat: no-repeat;
   font-family: 'Lobster', Georgia, Times, serif;
   color: #ffffff;
  }
