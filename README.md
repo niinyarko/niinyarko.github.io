@@ -1,2 +1,5 @@
-POP-Bootstrap-site
-==================
+niinyarko.github.io
+===================
+
+This is for my POP project
+
