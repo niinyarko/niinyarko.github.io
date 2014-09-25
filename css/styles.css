@@ -1,6 +1,8 @@
 #wrapper {
-  background-image: url("../img/brown.jpg");
+  background-image: url("../img/wood _texture536.jpg");
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 30% 20%; 
   font-family: 'Lobster', Georgia, Times, serif;
   color: #ffffff;
  }
@@ -56,6 +58,7 @@
 	display: inline; 
 	font-weight: bold; 
 	padding: 5px 5px;
+	text-align: justify;
 }
 
 .para2 {
