@@ -1,1 +1,593 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"b",
+				"background-attachment"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"F",
+				"F1"
+			],
+			[
+				"get",
+				"getFirstName"
+			],
+			[
+				"C",
+				"ClientFactory"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"S",
+				"Scanner"
+			],
+			[
+				"u",
+				"user_input"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"is",
+				"isGameOver"
+			],
+			[
+				"sT",
+				"String"
+			],
+			[
+				"te",
+				"tempValue"
+			],
+			[
+				"ge",
+				"getSum"
+			],
+			[
+				"m",
+				"multiplier"
+			],
+			[
+				"n",
+				"nextLine"
+			],
+			[
+				"ca",
+				"calculateTotal"
+			],
+			[
+				"pa",
+				"parseDouble"
+			],
+			[
+				"tem",
+				"tempValueDouble"
+			],
+			[
+				"N",
+				"Num2"
+			],
+			[
+				"O",
+				"operator"
+			],
+			[
+				"o",
+				"operator"
+			],
+			[
+				"user",
+				"userNum1"
+			],
+			[
+				"fa",
+				"family_name"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"pr",
+				"printResult"
+			],
+			[
+				"print",
+				"printResult"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"po",
+				"powerofTwo"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 131821,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 5310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 5347,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/laudbruce-tagoe/MESTjava/GuessingGame.java",
+		"/home/laudbruce-tagoe/MESTjava/salary.java",
+		"/home/laudbruce-tagoe/MESTjava/convert.java",
+		"/home/laudbruce-tagoe/MESTjava/testSalary.java",
+		"/home/laudbruce-tagoe/MESTjava/TestGame.java",
+		"/home/laudbruce-tagoe/Simulator/Simulator7.java",
+		"/home/laudbruce-tagoe/MESTjava/practice.java",
+		"/home/laudbruce-tagoe/MESTjava/Simulator7.java",
+		"/home/laudbruce-tagoe/MESTjava/testConvert.java",
+		"/home/laudbruce-tagoe/MESTjava/TestGame1.java",
+		"/home/laudbruce-tagoe/MESTjava/percentile2.java",
+		"/home/laudbruce-tagoe/MESTjava/percentile.java",
+		"/home/laudbruce-tagoe/MESTjava/cubeOf3.java",
+		"/home/laudbruce-tagoe/MESTjava/Calc1.java",
+		"/home/laudbruce-tagoe/MESTjava/TestCalc1.java",
+		"/home/laudbruce-tagoe/MESTjava/myname.java",
+		"/home/laudbruce-tagoe/MESTjava/PowerofTwo.java",
+		"/home/laudbruce-tagoe/MESTjava/BicycleDemo.java",
+		"/home/laudbruce-tagoe/MESTjava/QuadraticEquationSolver.java",
+		"/home/laudbruce-tagoe/MESTjava/TestMax.java",
+		"/home/laudbruce-tagoe/MESTjava/PrimeNumberTest.java",
+		"/home/laudbruce-tagoe/MESTjava/TestCalc.java",
+		"/home/laudbruce-tagoe/MESTjava/Calc.java",
+		"/home/laudbruce-tagoe/MESTjava/StringVariables.java",
+		"/home/laudbruce-tagoe/MESTjava/Array.java",
+		"/home/laudbruce-tagoe/MESTjava/ForLoopTest.java",
+		"/home/laudbruce-tagoe/MESTjava/add.java",
+		"/home/laudbruce-tagoe/MESTjava/Conversion1.java",
+		"/home/laudbruce-tagoe/MESTjava/DoWhileTest.java",
+		"/home/laudbruce-tagoe/MESTjava/PrimeNumberTest3.java",
+		"/home/laudbruce-tagoe/MESTjava/TestMax2.java",
+		"/home/laudbruce-tagoe/MESTjava/PrimeNumberTest2.java",
+		"/home/laudbruce-tagoe/MESTjava/prime.java",
+		"/home/laudbruce-tagoe/MESTjava/Conversion2.java",
+		"/home/laudbruce-tagoe/MESTjava/Conversion3.java",
+		"/home/laudbruce-tagoe/MESTjava/Conversion4.java",
+		"/home/laudbruce-tagoe/MESTjava/Flip.java",
+		"/home/laudbruce-tagoe/MESTjava/SwitchTest.java",
+		"/home/laudbruce-tagoe/MESTjava/hello.java",
+		"/home/laudbruce-tagoe/MESTjava/HelloWorld.java",
+		"/home/laudbruce-tagoe/MESTjava/XORExample .java",
+		"/home/laudbruce-tagoe/MESTjava/XORExample.java",
+		"/home/laudbruce-tagoe/MESTjava/new-operator.java",
+		"/home/laudbruce-tagoe/MESTjava/XOR-operator.java",
+		"/home/laudbruce-tagoe/MESTjava/Helloworld.java",
+		"/home/laudbruce-tagoe/Dropbox/POP-Bootstrap-site/css/bootstrap.css",
+		"/home/laudbruce-tagoe/Dropbox/POP-Bootstrap-site/contact.html",
+		"/home/laudbruce-tagoe/Dropbox/POP-Bootstrap-site/about.html",
+		"/home/laudbruce-tagoe/Dropbox/POP-Bootstrap-site/css/styles.css",
+		"/home/laudbruce-tagoe/Dropbox/POP-Bootstrap-site/index.html",
+		"/home/laudbruce-tagoe/Dropbox/POP-Bootstrap-site/blog.html",
+		"/home/laudbruce-tagoe/Dropbox/POP Bootstrap site/bootstrap-social.css",
+		"/home/laudbruce-tagoe/Desktop/pop/.gitignore",
+		"/home/laudbruce-tagoe/Dropbox/POP Bootstrap site/contact.html",
+		"/home/laudbruce-tagoe/Dropbox/POP Bootstrap site/about.html",
+		"/home/laudbruce-tagoe/Dropbox/POP Bootstrap site/index.html",
+		"/home/laudbruce-tagoe/Dropbox/POP Bootstrap site/css/bootstrap.css",
+		"/home/laudbruce-tagoe/Dropbox/POP Bootstrap site/css/styles.css",
+		"/media/laudbruce-tagoe/CC102CA7102C9A8A/Users/laud.bt/Desktop/Coding/HTML & CSS/Video2Brain - Core HTML5 and CSS3 Web Development/Project_Files/Chapter 04/Lesson 0401/Final/InputControlAttributes.html",
+		"/media/laudbruce-tagoe/CC102CA7102C9A8A/Users/laud.bt/Desktop/Coding/HTML & CSS/Video2Brain - Core HTML5 and CSS3 Web Development/Project_Files/Chapter 04/Lesson 0402/Final/InputControlTags.html",
+		"/home/laudbruce-tagoe/Desktop/POP/.gitignore",
+		"/home/laudbruce-tagoe/Dropbox/POP Bootstrap site/blog.html",
+		"/home/laudbruce-tagoe/Dropbox/POP Bootstrap site/index_original.html",
+		"/home/laudbruce-tagoe/Dropbox/POP site/css/mystyle.css",
+		"/home/laudbruce-tagoe/Downloads/women-entrepreneurs-free-bootstrap-byentheos/index.html",
+		"/home/laudbruce-tagoe/Dropbox/POP Bootstrap site/styles.css",
+		"/home/laudbruce-tagoe/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/laudbruce-tagoe/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/laudbruce-tagoe/my_newsite/index.html",
+		"/etc/init.d/apache2",
+		"/home/laudbruce-tagoe/Dropbox/test/youtube.java",
+		"/home/laudbruce-tagoe/Dropbox/POP site/html/index.html",
+		"/home/laudbruce-tagoe/Dropbox/bootstrap_tut/styles/main.css",
+		"/home/laudbruce-tagoe/Dropbox/bootstrap_tut/index.html",
+		"/home/laudbruce-tagoe/Dropbox/bootstrap_tut/main.css",
+		"/home/laudbruce-tagoe/Dropbox/bootstrap_tut/bootstrap.html",
+		"/home/laudbruce-tagoe/Dropbox/bootstrap_tut/styles/bootstrap.css",
+		"/home/laudbruce-tagoe/–",
+		"/home/laudbruce-tagoe/Dropbox/POP site/html/newindex.html",
+		"/home/laudbruce-tagoe/Downloads/bootstrap-3.2.0-dist/css/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n		if (tempAlpha == \"F\"){\n			 myConvert.System.out.println(fartoCel(tempValueDouble));\n		}\n\n		else if (tempAlpha == \"C\") {\n\n			System.out.println(celtoFar(tempValueDouble));\n		}",
+			"pull-right",
+			"float",
+			"float-left"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1808,
+								1808
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3876,
+								3876
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1697.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1356,
+								1356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 519.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

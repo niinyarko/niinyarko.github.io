@@ -1,11 +1,30 @@
-#wrapper {
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+  padding: 0 0 60px;
   background-image: url("../img/wood _texture536.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 30% 20%; 
   font-family: 'Lobster', Georgia, Times, serif;
   color: #ffffff;
- }
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  background-color: #000000;
+}
 
 
 .head , .head1, .head_xs, .head2{
@@ -13,12 +32,16 @@
     background: #4D8050; 
     display: block; 
     color: #ffffff;
+    text-align: center;
+}
+.h3head {
+	font-family: 'Cabin', Helvetica, Arial, sans-serif;
 }
 
 .head{
     padding: 5px 5px;
-    font-size: 60px; 
-    line-height: 100px;     
+    font-size: 50px; 
+    line-height: 80px;     
 }
 
 .head_xs{
@@ -103,6 +126,7 @@ footer {
 	font-size: 13px;
 	padding: 20px;
 	color: #eee;
+	margin-top: 50px;
 }
 
 .messageBox {
