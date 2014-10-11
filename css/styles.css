@@ -14,7 +14,6 @@ body {
   margin-bottom: 60px;
 }
 
-
 /* Set the fixed height of the footer here */
 #footer {
 	position: absolute;
@@ -25,7 +24,7 @@ body {
 }
 
 
-.head , .head1, .head_xs, .head2{
+.head , .head1, .head_xs, .head2, .head_xs2{
 	font-family: 'Lobster', Georgia, Times, serif;
     background: #4D8050; 
     display: block; 
@@ -45,8 +44,14 @@ body {
 
 .head_xs{
     padding: 2px 2px;
-    font-size: 30px; 
-    line-height: 50px;     
+    font-size: 28px; 
+    line-height: 40px;     
+}
+
+.head_xs2{
+    padding: 2px 2px;
+    font-size: 25px; 
+    line-height: 40px;     
 }
 
 .head1 {
@@ -88,7 +93,6 @@ body {
 	font-size: 15px; line-height: 20px; 
 	color: #ffffff;
 	font-weight: bold; 
-	padding: 5px 5px;
 	margin-left: 20px;
 }
 

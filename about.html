@@ -9,7 +9,7 @@
 	<link href="http://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css">
 </head>
 <body>
-<div class="container">
+<div class="container-fluid" style="padding: 0 0;">
 
 	<div class="navbar navbar-inverse navbar-static-top">
 
@@ -52,8 +52,15 @@
 		<div class="row">
 
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-				
-					<img src="img/me1.png" width="300px" height="250px" class="img-responsive" style="margin-left:14px;">
+
+				<div style="margin-left:20px" class="hidden-xs">
+				<img src="img/me1.png" width="300px" height="250px" class="img-responsive" style="margin-bottom:10px;">
+				</div>
+				<div style="margin-left:20px" class="hidden-lg hidden-md hidden-sm">
+				<img src="img/me1.png" width="250px" height="150px" class="img-responsive" style="margin-bottom:10px;">
+					
+				</div>
+
 					<p class="para2">Hello my name is Laud and i am a tech enthusiast, software developer, and a blogger. I love exploring new stuff. </p>
 
 					<p class="para2">Currently, am studying software development at Meltwater Entrepreneurial School of Technology (MEST) were i am an EIT (Entrepreneur in Training).</p>
@@ -61,14 +68,16 @@
 				</div>	
 
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="margin-bottom: 50px;">	
-					<h3 class="head2">THINGS I LOVE</h3>
+					<h3 class="head2 hidden-xs hidden-sm">THINGS I LOVE</h3>
+					<h3 class="head_xs2 show-xs hidden-lg hidden-md show-sm">THINGS I LOVE</h3>
 					<ul class="list-unstyled list">
 						<li><span class="glyphicon glyphicon-ok"></span>&nbsp;&nbsp;My Family</li>
 						<li><span class="glyphicon glyphicon-ok"></span>&nbsp;&nbsp;Jesus Christ</li>
 						<li><span class="glyphicon glyphicon-ok"></span>&nbsp;&nbsp;Coding</li>
 						<li><span class="glyphicon glyphicon-ok"></span>&nbsp;&nbsp;Helping people</li>
 					</ul>
-					<h3 class="head2">WHAT I CAN DO</h3>
+					<h3 class="head2 hidden-xs hidden-sm">WHAT I CAN DO</h3>
+					<h3 class="head_xs2 show-xs hidden-lg hidden-md show-sm">WHAT I CAN DO</h3>
 
 						<ul class="list-unstyled list">
 							
@@ -90,10 +99,10 @@
 		<div id="footer">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-7">
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-8">
 						<h4> Copyright &copy; <br/>2014 Laud Bruce-Tagoe</h4>
 					</div>
-					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-5">
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-4">
 						<h6>Coded with <span class="glyphicon glyphicon-heart"></span>&nbsp; by Laud.</h6>
 					</div>
 				
